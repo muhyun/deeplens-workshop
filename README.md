@@ -8,7 +8,7 @@ In this workshop, learn how to train and optimize your computer vision pipelines
 
 Presenter: Nathaniel Slater - Senior Manager, Phu Nguyen - Product Manager
 
-<a href="https://aws.amazon.com/"><img src="_static/aws_logo.png" alt="AWS Icon" height="45"></a> &nbsp; <a href="https://ml.aws/"><img src="_static/amazon_ai.png" alt="AmazonAI Icon" height="58"></a> &nbsp; <a href="https://http://mxnet.incubator.apache.org/"><img src="_static/apache_incubator_logo.png" alt="Apache Incubator Icon" height="39"></a> &nbsp; <a href="https://http://mxnet.incubator.apache.org/"><img src="_static/mxnet_logo_2.png" alt="MXNet Icon" height="39"></a> &nbsp; <a href="https://gluon-cv.mxnet.io/"><img src="_static/gluon_logo_horizontal_small.png" alt="Gluon Icon" height="42"></a> 
+<a href="https://aws.amazon.com/"><img src="_static/aws_logo.png" alt="AWS Icon" height="45"></a> &nbsp; <a href="https://ml.aws/"><img src="_static/amazon_ai.png" alt="AmazonAI Icon" height="58"></a> &nbsp; <a href="https://mxnet.incubator.apache.org/"><img src="_static/apache_incubator_logo.png" alt="Apache Incubator Icon" height="39"></a> &nbsp; <a href="https://mxnet.incubator.apache.org/"><img src="_static/mxnet_logo_2.png" alt="MXNet Icon" height="39"></a> &nbsp; <a href="https://gluon-cv.mxnet.io/"><img src="_static/gluon_logo_horizontal_small.png" alt="Gluon Icon" height="42"></a> 
 
 Agenda
 ------
