@@ -36,7 +36,7 @@ A2: Refer to [AIM229 - Start using computer vision with AWS DeepLens][5] worksho
 Authors
 ---
 
-<span style="color:grey">Phu Nguyen,  Nathaniel Slater, Muhyun Kim , Jiyang Kang, Tatsuya Arai</span>
+<span style="color:grey">Jiyang Kang, Muhyun Kim, Nathaniel Slater, Phu Nguyen, Tatsuya Arai</span>
 
 [1]: https://github.com/muhyun/deeplens-workshop/blob/master/Lab1/deeplens-l400-lab1-gt.ipynb
 [2]: https://github.com/muhyun/deeplens-workshop/blob/master/Lab2/lab2-image-classification.ipynb
