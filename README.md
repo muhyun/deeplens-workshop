@@ -26,15 +26,20 @@ Q&A
 ---
 Q1: How do I setup the environment for this workshop?
 
-A1: We recommend to use Amazon SageMaker notebook instance. Or you can clone this GIT repository into anywhere as long as all the required libraries such as Apache MXNet, GluonCV, and AWS BOTO3 can be installed.
+A1: We recommend to use Amazon SageMaker notebook instance. Or you can clone this GIT repository into anywhere as long as all the required libraries such as Apache MXNet, GluonCV, and AWS SDK(Boto3) can be installed.
 
-[1]: https://github.com/muhyun/deeplens-workshop/blob/master/Lab1/deeplens-l400-lab1-gt.ipynb
-[2]: https://github.com/muhyun/deeplens-workshop/blob/master/Lab2/lab2-image-classification.ipynb
-[3]: https://github.com/muhyun/deeplens-workshop/blob/master/Lab1/deeplens-l400-lab1-gt.ipynb
-[4]: https://github.com/muhyun/deeplens-workshop/blob/master/Lab1/deeplens-l400-lab1-gt.ipynb
+Q2: How can I train a model using Amazon SageMaker built-in image classification algorithm and deploy it to AWS DeepLens?
+
+A2: Refer to [AIM229 - Start using computer vision with AWS DeepLens][5] workshop material for the detail.
 
 
 Authors
 ---
 
 <span style="color:grey">Phu Nguyen,  Nathaniel Slater, Muhyun Kim , Jiyang Kang, Tatsuya Arai</span>
+
+[1]: https://github.com/muhyun/deeplens-workshop/blob/master/Lab1/deeplens-l400-lab1-gt.ipynb
+[2]: https://github.com/muhyun/deeplens-workshop/blob/master/Lab2/lab2-image-classification.ipynb
+[3]: https://github.com/muhyun/deeplens-workshop/blob/master/Lab1/deeplens-l400-lab1-gt.ipynb
+[4]: https://github.com/muhyun/deeplens-workshop/blob/master/Lab1/deeplens-l400-lab1-gt.ipynb
+[5]: https://github.com/phmagic/aws-deeplens-workshop
