@@ -20,7 +20,7 @@ Agenda
 | 10:45-00:00 | Lab 2 - Train an image classification model using GluonCV              | [link][2] |
 | 10:45-00:00 | Lab 3 - ...              | [link][3] |
 | 10:45-00:00 | Lab 4 - ...              | [link][4] |
-| 12:00-12:15 | Q&A and Closing                                                        |           |            |
+| 12:00-13:00 | Q&A and Closing                                                        |           |            |
 
 Q&A
 ---
