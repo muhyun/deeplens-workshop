@@ -16,6 +16,7 @@ Agenda
 | Time        | Title                                                                  | Notebooks |
 |-------------|------------------------------------------------------------------------|-----------|
 | 10:45-00:00 | ..                                                                     |           |
+| 10:45-00:00 | Lab 0 - Lab environment, SageMaker Notebook instance, set up           | [link][0] |
 | 10:45-00:00 | Lab 1 - Labeling dataset using Amazon SageMaker Ground Truth           | [link][1] |
 | 10:45-00:00 | Lab 2 - Train an image classification model using GluonCV              | [link][2] |
 | 10:45-00:00 | Lab 3 - ...              | [link][3] |
@@ -40,6 +41,7 @@ Authors
 
 <span style="color:grey">Jiyang Kang, Muhyun Kim, Nathaniel Slater, Phu Nguyen, Tatsuya Arai</span>
 
+[0]: ./Lab0/setup.md
 [1]: https://github.com/muhyun/deeplens-workshop/blob/master/Lab1/deeplens-l400-lab1-gt.ipynb
 [2]: https://github.com/muhyun/deeplens-workshop/blob/master/Lab2/lab2-image-classification.ipynb
 [3]: https://github.com/muhyun/deeplens-workshop/blob/master/Lab1/deeplens-l400-lab1-gt.ipynb
