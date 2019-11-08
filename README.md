@@ -42,8 +42,8 @@ Authors
 <span style="color:grey">Jiyang Kang, Muhyun Kim, Nathaniel Slater, Phu Nguyen, Tatsuya Arai</span>
 
 [0]: ./Lab0/setup.md
-[1]: https://github.com/muhyun/deeplens-workshop/blob/master/Lab1/deeplens-l400-lab1-gt.ipynb
-[2]: https://github.com/muhyun/deeplens-workshop/blob/master/Lab2/lab2-image-classification.ipynb
-[3]: https://github.com/muhyun/deeplens-workshop/blob/master/Lab1/deeplens-l400-lab1-gt.ipynb
-[4]: https://github.com/muhyun/deeplens-workshop/blob/master/Lab1/deeplens-l400-lab1-gt.ipynb
+[1]: ./Lab1/deeplens-l400-lab1-gt.ipynb
+[2]: ./Lab2/lab2-image-classification.ipynb
+[3]: ./Lab1/deeplens-l400-lab1-gt.ipynb
+[4]: ./Lab1/deeplens-l400-lab1-gt.ipynb
 [5]: https://github.com/phmagic/aws-deeplens-workshop
