@@ -26,7 +26,9 @@ Q&A
 ---
 Q1: How do I setup the environment for this workshop?
 
-A1: We recommend to use Amazon SageMaker notebook instance. Or you can clone this GIT repository into anywhere as long as all the required libraries such as Apache MXNet, GluonCV, and AWS SDK(Boto3) can be installed.
+A1: We recommend to use Amazon SageMaker notebook instance. Or you can clone this GIT repository into anywhere as long as all the required libraries such as Apache MXNet, GluonCV, and AWS SDK(Boto3) can be installed. 
+
+**Please follow [the lab setup guide](./Lab0/setup.md) to launch your Amazon SageMaker notebook instance for this workshop.**
 
 Q2: How can I train a model using Amazon SageMaker built-in image classification algorithm and deploy it to AWS DeepLens?
 
